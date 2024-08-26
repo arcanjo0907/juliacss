@@ -1,1 +1,2 @@
-# juliacss
+# julia
+estudante de tecnologia
